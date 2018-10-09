@@ -1,0 +1,12 @@
+.group .apply-common-tooltip {
+    background-color: #fff!important;
+    color: #222;
+}
+
+.group svg {
+    fill: #222!important;
+}
+
+.chart-page .chart-container {
+    border-width: 0px;
+}
